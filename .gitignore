@@ -55,3 +55,9 @@ dkms.conf
 *.LST
 *.M51
 *ch02_01
+
+*.uvgui.pl
+Listings/
+Objects/
+*.Opt
+*.Bak
